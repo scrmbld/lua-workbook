@@ -1,0 +1,4 @@
+rnote
+*.md
+*.ju.py
+.ipynb_checkpoints
